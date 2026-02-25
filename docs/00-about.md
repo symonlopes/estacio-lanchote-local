@@ -84,7 +84,7 @@ para garantir a qualidade no desenvolvimento e nos testes do aplicativo.
 
 
 ## 2.3 - Avaliação dos resultados alcançados
-Definir os instrumentos e indicadores para avaliar os resultados da atividade. Exemplo: comparar os registros de vendas e controle de estoque antes e depois da implementação, aplicar questionários de satisfação com os colaboradores e realizar observação direta da melhoria na eficiência operacional.
+Em um cenário real, usar o sistema para, inicialmente, fazer alguns pedidos. Após a validação desse produto no ambiente do cliente (teste beta), o sistema deve ser usado por um período de 30 dias para coletar dados e avaliar os resultados alcançados.
 
 ## 3. ENCERRAMENTO DO PROJETO
 1. Evidências das atividades realizadas
